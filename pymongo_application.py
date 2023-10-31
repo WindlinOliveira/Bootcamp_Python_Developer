@@ -3,7 +3,7 @@ import pprint
 
 import pymongo as pyM
 
-client = pyM.MongoClient("mongodb+srv://windlinoliveira:9910148123@cluster.o7icvzs.mongodb.net/?retryWrites=true&w=majority")
+#client mongo
 
 db = client.db_dio
 
